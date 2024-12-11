@@ -45,5 +45,5 @@ K-Means Kümelemeleri: İşlem desenlerinin K-Means algoritması kullanarak anal
 
 Aykırı Değerler: Hesap bakiyeleri ve işlem tutarları üzerinden aykırı işlem örüntüleri görselleştirildi.
 
-# Görselleştirme Sonuçları: İşlem türleri, hesap bakiyeleri ve şüpheli işlem örüntüleri grafikler aracılığıyla analiz edildi.
+# Görselleştirme Sonuçları:
 Sonuçlara baktığımda hesap bakiyesi düşük olan öğrencilerin işlem tutarları ve ve işlem süreleri yüksek olduğu görülmüş bunun üzlerine yaptığım derinlemesine analizler sonucu öğrenciler arası hesap bakiyesi uyumunda aykırı değerler olduğundan dolayı öğrenciler arasında  hesap bakiyesi değişkeni üzerinden  bu aykırı değerleri de kendi aralarında uyumunu analiz ettiğimde belli bir uyumda olduklarını ve kendi  aralarında herhangi bir uyumsuzluğa rastlamadığımı söyleyebilirim öğrencilerin bu durumunda  çoğunlukla yüksek işlemleri gerçekleştirirken borç yerine kredi taraflı gerçekleştirmeleri ve bu tutarların hesap bakiyesi düşük bir öğrenciye göre  çok yüksek olması şüphe uyandırıyor bunun için gerekli görselleştirmeleri  proje dosyasında yaptım.Ayrıca K-Means algoritmasını kullanarak  birbiriyle benzer işlem  tutarı ve hesap bakiyesi yönünden benzerlik gösteren 3 grup oluşturdum ve kümeleme  işlemini gerçekleştirdim.
