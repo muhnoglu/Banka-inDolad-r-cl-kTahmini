@@ -1,5 +1,6 @@
-![kredi-karti-dolandiriciligi-kobi-yasam](https://github.com/user-attachments/assets/7801fee8-dfdb-443f-bb1f-1b99524197e2)
 # Fraud Detection with K-Means Clustering
+![kredi-karti-dolandiriciligi-kobi-yasam](https://github.com/user-attachments/assets/7801fee8-dfdb-443f-bb1f-1b99524197e2)
+
 Proje  dolandırıcılık tespiti ve anormallik tanımlaması için ideal olan işlemsel davranış ve finansal aktivite kalıplarına dair fraud işlemi olup olmadığı hakkında bilgi verir.README dosyasını inceleyerek  daha fazla bilgiye sahip olabilirsiniz.
 # 🚀 Proje Açıklaması
 Bu projede, finansal işlem verileri üzerinden şüpheli dolandırıcılık işlemlerini analiz etmek amacıyla K-Means Kümeleme (Clustering) algoritması uygulandı. Şüpheli işlemleri tespit etmek için veri kümesindeki aykırı değerler ve işlemler üzerinde detaylı analizler gerçekleştirildi. Sonuçlar, görselleştirme araçları kullanarak analiz edilerek yorumlandı ve içgörüler elde edildi.
